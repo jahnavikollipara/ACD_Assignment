@@ -1,5 +1,10 @@
 # ACD_Assignment
 An interactive C# Graphics-based visualization tool for DFA, NFA, and NFA-to-DFA conversion. It visually demonstrates states, transitions, start/final states, and subset construction, making Automata Theory concepts easier to understand through clear and interactive state diagrams.
+
+##  Vedio Link:
+
+   https://drive.google.com/file/d/1cXfDBuXG6a_eyOIt6mrzCAyFfbStCIxr/view?usp=drive_link
+   
 # DFA
 <img width="1365" height="696" alt="image" src="https://github.com/user-attachments/assets/0f44a33a-7256-4815-ba3c-627af6bd44fd" />
 
@@ -33,9 +38,6 @@ An interactive C# Graphics-based visualization tool for DFA, NFA, and NFA-to-DFA
 - **Automata Theory**
 - **Subset Construction**
 
-##  Vedio Link:
-
-   https://drive.google.com/file/d/1cXfDBuXG6a_eyOIt6mrzCAyFfbStCIxr/view?usp=drive_link
 
 ##  Learning Outcome
 
