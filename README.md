@@ -33,4 +33,10 @@ An interactive C# Graphics-based visualization tool for DFA, NFA, and NFA-to-DFA
 - **Automata Theory**
 - **Subset Construction**
 
+##  Vedio Link:
 
+   https://drive.google.com/file/d/1cXfDBuXG6a_eyOIt6mrzCAyFfbStCIxr/view?usp=drive_link
+
+##  Learning Outcome
+
+This project provides a practical understanding of **DFA, NFA, transition functions, state traversal, and NFA-to-DFA conversion** by implementing Automata Theory concepts as an interactive graphical application.
