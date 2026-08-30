@@ -9,4 +9,28 @@ An interactive C# Graphics-based visualization tool for DFA, NFA, and NFA-to-DFA
 # NFAToDFA 
 <img width="1362" height="701" alt="image" src="https://github.com/user-attachments/assets/df44e9c8-38f6-4716-aa31-a47aa23c86a5" />
 
+##  Features
+
+- DFA state diagram visualization
+- NFA state diagram visualization
+- NFA-to-DFA conversion using subset construction
+- Transition table generation
+- Start state and final state visualization
+- Input string testing
+- Displays **ACCEPTED / REJECTED** result
+- Displays the state traversal path for the input string
+- Resizable graphical interface
+
+---
+
+##  Technologies Used
+
+- **C#**
+- **.NET**
+- **Windows Forms**
+- **System.Drawing**
+- **System.Drawing.Drawing2D**
+- **Automata Theory**
+- **Subset Construction**
+
 
